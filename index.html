@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Sticker Pack</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #1e1e1e;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    
+    /* This creates a neat, responsive grid that adjusts to the screen size */
+    .sticker-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 15px;
+      max-width: 800px;
+      margin: 0 auto;
+      padding-top: 20px;
+    }
+
+    .sticker {
+      width: 100%;
+      height: auto;
+      background-color: #2a2a2a;
+      border-radius: 10px;
+      padding: 10px;
+      box-sizing: border-box;
+      transition: transform 0.2s;
+    }
+
+    .sticker:hover {
+      transform: scale(1.1);
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>My Custom Sticker Pack</h1>
+  <div id="sticker-container" class="sticker-grid"></div>
+
+  <script>
+    // 1. Point this to your JSON file
+    const databaseUrl = './stickers.json'; 
+
+    async function loadStickers() {
+      try {
+        // 2. Fetch the data from the JSON file
+        const response = await fetch(databaseUrl);
+        const stickers = await response.json();
+        
+        // 3. Find the container where we will drop the images
+        const container = document.getElementById('sticker-container');
+
+        // 4. Loop through the JSON array and create an <img> tag for each one
+        stickers.forEach(sticker => {
+          const img = document.createElement('img');
+          img.src = sticker.url;   // Pulls the Cloudinary URL
+          img.alt = sticker.name;  // Pulls the "sticker_1" name
+          img.className = 'sticker';
+          
+          // 5. Add the finished image to the web page
+          container.appendChild(img);
+        });
+
+      } catch (error) {
+        console.error('Failed to load the sticker database:', error);
+      }
+    }
+
+    // Run the function as soon as the page loads
+    loadStickers();
+  </script>
+
+</body>
+</html>
