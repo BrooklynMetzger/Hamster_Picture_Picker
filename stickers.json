@@ -1,0 +1,1272 @@
+[
+  {
+    "id": 1,
+    "name": "sticker_1",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733493/telegram_stickers/sticker_1.png"
+  },
+  {
+    "id": 2,
+    "name": "sticker_10",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733494/telegram_stickers/sticker_10.png"
+  },
+  {
+    "id": 3,
+    "name": "sticker_100",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733495/telegram_stickers/sticker_100.png"
+  },
+  {
+    "id": 4,
+    "name": "sticker_101",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733495/telegram_stickers/sticker_101.png"
+  },
+  {
+    "id": 5,
+    "name": "sticker_102",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733496/telegram_stickers/sticker_102.png"
+  },
+  {
+    "id": 6,
+    "name": "sticker_103",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733496/telegram_stickers/sticker_103.png"
+  },
+  {
+    "id": 7,
+    "name": "sticker_104",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733497/telegram_stickers/sticker_104.png"
+  },
+  {
+    "id": 8,
+    "name": "sticker_105",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733497/telegram_stickers/sticker_105.png"
+  },
+  {
+    "id": 9,
+    "name": "sticker_106",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733498/telegram_stickers/sticker_106.png"
+  },
+  {
+    "id": 10,
+    "name": "sticker_107",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733498/telegram_stickers/sticker_107.png"
+  },
+  {
+    "id": 11,
+    "name": "sticker_108",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733499/telegram_stickers/sticker_108.png"
+  },
+  {
+    "id": 12,
+    "name": "sticker_109",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733499/telegram_stickers/sticker_109.png"
+  },
+  {
+    "id": 13,
+    "name": "sticker_11",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733500/telegram_stickers/sticker_11.png"
+  },
+  {
+    "id": 14,
+    "name": "sticker_110",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733500/telegram_stickers/sticker_110.png"
+  },
+  {
+    "id": 15,
+    "name": "sticker_111",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733501/telegram_stickers/sticker_111.png"
+  },
+  {
+    "id": 16,
+    "name": "sticker_112",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733502/telegram_stickers/sticker_112.png"
+  },
+  {
+    "id": 17,
+    "name": "sticker_113",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733503/telegram_stickers/sticker_113.png"
+  },
+  {
+    "id": 18,
+    "name": "sticker_114",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733504/telegram_stickers/sticker_114.png"
+  },
+  {
+    "id": 19,
+    "name": "sticker_115",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733504/telegram_stickers/sticker_115.png"
+  },
+  {
+    "id": 20,
+    "name": "sticker_116",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733505/telegram_stickers/sticker_116.png"
+  },
+  {
+    "id": 21,
+    "name": "sticker_117",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733506/telegram_stickers/sticker_117.png"
+  },
+  {
+    "id": 22,
+    "name": "sticker_118",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733506/telegram_stickers/sticker_118.png"
+  },
+  {
+    "id": 23,
+    "name": "sticker_119",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733507/telegram_stickers/sticker_119.png"
+  },
+  {
+    "id": 24,
+    "name": "sticker_12",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733507/telegram_stickers/sticker_12.png"
+  },
+  {
+    "id": 25,
+    "name": "sticker_120",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733508/telegram_stickers/sticker_120.png"
+  },
+  {
+    "id": 26,
+    "name": "sticker_121",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733508/telegram_stickers/sticker_121.png"
+  },
+  {
+    "id": 27,
+    "name": "sticker_122",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733509/telegram_stickers/sticker_122.png"
+  },
+  {
+    "id": 28,
+    "name": "sticker_123",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733510/telegram_stickers/sticker_123.png"
+  },
+  {
+    "id": 29,
+    "name": "sticker_124",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733510/telegram_stickers/sticker_124.png"
+  },
+  {
+    "id": 30,
+    "name": "sticker_125",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733511/telegram_stickers/sticker_125.png"
+  },
+  {
+    "id": 31,
+    "name": "sticker_126",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733511/telegram_stickers/sticker_126.png"
+  },
+  {
+    "id": 32,
+    "name": "sticker_127",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733512/telegram_stickers/sticker_127.png"
+  },
+  {
+    "id": 33,
+    "name": "sticker_128",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733512/telegram_stickers/sticker_128.png"
+  },
+  {
+    "id": 34,
+    "name": "sticker_129",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733513/telegram_stickers/sticker_129.png"
+  },
+  {
+    "id": 35,
+    "name": "sticker_13",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733514/telegram_stickers/sticker_13.png"
+  },
+  {
+    "id": 36,
+    "name": "sticker_130",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733514/telegram_stickers/sticker_130.png"
+  },
+  {
+    "id": 37,
+    "name": "sticker_131",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733515/telegram_stickers/sticker_131.png"
+  },
+  {
+    "id": 38,
+    "name": "sticker_132",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733515/telegram_stickers/sticker_132.png"
+  },
+  {
+    "id": 39,
+    "name": "sticker_133",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733516/telegram_stickers/sticker_133.png"
+  },
+  {
+    "id": 40,
+    "name": "sticker_134",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733517/telegram_stickers/sticker_134.png"
+  },
+  {
+    "id": 41,
+    "name": "sticker_135",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733517/telegram_stickers/sticker_135.png"
+  },
+  {
+    "id": 42,
+    "name": "sticker_136",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733518/telegram_stickers/sticker_136.png"
+  },
+  {
+    "id": 43,
+    "name": "sticker_137",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733519/telegram_stickers/sticker_137.png"
+  },
+  {
+    "id": 44,
+    "name": "sticker_138",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733519/telegram_stickers/sticker_138.png"
+  },
+  {
+    "id": 45,
+    "name": "sticker_139",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733520/telegram_stickers/sticker_139.png"
+  },
+  {
+    "id": 46,
+    "name": "sticker_14",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733521/telegram_stickers/sticker_14.png"
+  },
+  {
+    "id": 47,
+    "name": "sticker_140",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733521/telegram_stickers/sticker_140.png"
+  },
+  {
+    "id": 48,
+    "name": "sticker_141",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733522/telegram_stickers/sticker_141.png"
+  },
+  {
+    "id": 49,
+    "name": "sticker_142",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733522/telegram_stickers/sticker_142.png"
+  },
+  {
+    "id": 50,
+    "name": "sticker_143",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733523/telegram_stickers/sticker_143.png"
+  },
+  {
+    "id": 51,
+    "name": "sticker_144",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733524/telegram_stickers/sticker_144.png"
+  },
+  {
+    "id": 52,
+    "name": "sticker_145",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733524/telegram_stickers/sticker_145.png"
+  },
+  {
+    "id": 53,
+    "name": "sticker_146",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733525/telegram_stickers/sticker_146.png"
+  },
+  {
+    "id": 54,
+    "name": "sticker_147",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733526/telegram_stickers/sticker_147.png"
+  },
+  {
+    "id": 55,
+    "name": "sticker_148",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733526/telegram_stickers/sticker_148.png"
+  },
+  {
+    "id": 56,
+    "name": "sticker_149",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733527/telegram_stickers/sticker_149.png"
+  },
+  {
+    "id": 57,
+    "name": "sticker_15",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733528/telegram_stickers/sticker_15.png"
+  },
+  {
+    "id": 58,
+    "name": "sticker_150",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733528/telegram_stickers/sticker_150.png"
+  },
+  {
+    "id": 59,
+    "name": "sticker_151",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733529/telegram_stickers/sticker_151.png"
+  },
+  {
+    "id": 60,
+    "name": "sticker_152",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733529/telegram_stickers/sticker_152.png"
+  },
+  {
+    "id": 61,
+    "name": "sticker_153",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733530/telegram_stickers/sticker_153.png"
+  },
+  {
+    "id": 62,
+    "name": "sticker_154",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733531/telegram_stickers/sticker_154.png"
+  },
+  {
+    "id": 63,
+    "name": "sticker_155",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733531/telegram_stickers/sticker_155.png"
+  },
+  {
+    "id": 64,
+    "name": "sticker_156",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733532/telegram_stickers/sticker_156.png"
+  },
+  {
+    "id": 65,
+    "name": "sticker_157",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733533/telegram_stickers/sticker_157.png"
+  },
+  {
+    "id": 66,
+    "name": "sticker_158",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733534/telegram_stickers/sticker_158.png"
+  },
+  {
+    "id": 67,
+    "name": "sticker_159",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733534/telegram_stickers/sticker_159.png"
+  },
+  {
+    "id": 68,
+    "name": "sticker_16",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733535/telegram_stickers/sticker_16.png"
+  },
+  {
+    "id": 69,
+    "name": "sticker_160",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733536/telegram_stickers/sticker_160.png"
+  },
+  {
+    "id": 70,
+    "name": "sticker_161",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733536/telegram_stickers/sticker_161.png"
+  },
+  {
+    "id": 71,
+    "name": "sticker_162",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733537/telegram_stickers/sticker_162.png"
+  },
+  {
+    "id": 72,
+    "name": "sticker_163",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733537/telegram_stickers/sticker_163.png"
+  },
+  {
+    "id": 73,
+    "name": "sticker_164",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733538/telegram_stickers/sticker_164.png"
+  },
+  {
+    "id": 74,
+    "name": "sticker_165",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733538/telegram_stickers/sticker_165.png"
+  },
+  {
+    "id": 75,
+    "name": "sticker_166",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733539/telegram_stickers/sticker_166.png"
+  },
+  {
+    "id": 76,
+    "name": "sticker_167",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733540/telegram_stickers/sticker_167.png"
+  },
+  {
+    "id": 77,
+    "name": "sticker_168",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733540/telegram_stickers/sticker_168.png"
+  },
+  {
+    "id": 78,
+    "name": "sticker_169",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733541/telegram_stickers/sticker_169.png"
+  },
+  {
+    "id": 79,
+    "name": "sticker_17",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733541/telegram_stickers/sticker_17.png"
+  },
+  {
+    "id": 80,
+    "name": "sticker_170",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733542/telegram_stickers/sticker_170.png"
+  },
+  {
+    "id": 81,
+    "name": "sticker_171",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733544/telegram_stickers/sticker_171.png"
+  },
+  {
+    "id": 82,
+    "name": "sticker_172",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733545/telegram_stickers/sticker_172.png"
+  },
+  {
+    "id": 83,
+    "name": "sticker_173",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733546/telegram_stickers/sticker_173.png"
+  },
+  {
+    "id": 84,
+    "name": "sticker_174",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733546/telegram_stickers/sticker_174.png"
+  },
+  {
+    "id": 85,
+    "name": "sticker_175",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733547/telegram_stickers/sticker_175.png"
+  },
+  {
+    "id": 86,
+    "name": "sticker_176",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733547/telegram_stickers/sticker_176.png"
+  },
+  {
+    "id": 87,
+    "name": "sticker_177",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733547/telegram_stickers/sticker_177.png"
+  },
+  {
+    "id": 88,
+    "name": "sticker_178",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733548/telegram_stickers/sticker_178.png"
+  },
+  {
+    "id": 89,
+    "name": "sticker_179",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733548/telegram_stickers/sticker_179.png"
+  },
+  {
+    "id": 90,
+    "name": "sticker_18",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733549/telegram_stickers/sticker_18.png"
+  },
+  {
+    "id": 91,
+    "name": "sticker_180",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733549/telegram_stickers/sticker_180.png"
+  },
+  {
+    "id": 92,
+    "name": "sticker_181",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733550/telegram_stickers/sticker_181.png"
+  },
+  {
+    "id": 93,
+    "name": "sticker_182",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733551/telegram_stickers/sticker_182.png"
+  },
+  {
+    "id": 94,
+    "name": "sticker_183",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733551/telegram_stickers/sticker_183.png"
+  },
+  {
+    "id": 95,
+    "name": "sticker_184",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733552/telegram_stickers/sticker_184.png"
+  },
+  {
+    "id": 96,
+    "name": "sticker_185",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733552/telegram_stickers/sticker_185.png"
+  },
+  {
+    "id": 97,
+    "name": "sticker_186",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733553/telegram_stickers/sticker_186.png"
+  },
+  {
+    "id": 98,
+    "name": "sticker_187",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733553/telegram_stickers/sticker_187.png"
+  },
+  {
+    "id": 99,
+    "name": "sticker_188",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733554/telegram_stickers/sticker_188.png"
+  },
+  {
+    "id": 100,
+    "name": "sticker_189",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733554/telegram_stickers/sticker_189.png"
+  },
+  {
+    "id": 101,
+    "name": "sticker_19",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733555/telegram_stickers/sticker_19.png"
+  },
+  {
+    "id": 102,
+    "name": "sticker_190",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733555/telegram_stickers/sticker_190.png"
+  },
+  {
+    "id": 103,
+    "name": "sticker_191",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733556/telegram_stickers/sticker_191.png"
+  },
+  {
+    "id": 104,
+    "name": "sticker_192",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733557/telegram_stickers/sticker_192.png"
+  },
+  {
+    "id": 105,
+    "name": "sticker_193",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733557/telegram_stickers/sticker_193.png"
+  },
+  {
+    "id": 106,
+    "name": "sticker_194",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733558/telegram_stickers/sticker_194.png"
+  },
+  {
+    "id": 107,
+    "name": "sticker_195",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733558/telegram_stickers/sticker_195.png"
+  },
+  {
+    "id": 108,
+    "name": "sticker_196",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733559/telegram_stickers/sticker_196.png"
+  },
+  {
+    "id": 109,
+    "name": "sticker_197",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733559/telegram_stickers/sticker_197.png"
+  },
+  {
+    "id": 110,
+    "name": "sticker_198",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733560/telegram_stickers/sticker_198.png"
+  },
+  {
+    "id": 111,
+    "name": "sticker_199",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733561/telegram_stickers/sticker_199.png"
+  },
+  {
+    "id": 112,
+    "name": "sticker_2",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733562/telegram_stickers/sticker_2.png"
+  },
+  {
+    "id": 113,
+    "name": "sticker_20",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733562/telegram_stickers/sticker_20.png"
+  },
+  {
+    "id": 114,
+    "name": "sticker_200",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733563/telegram_stickers/sticker_200.png"
+  },
+  {
+    "id": 115,
+    "name": "sticker_201",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733563/telegram_stickers/sticker_201.png"
+  },
+  {
+    "id": 116,
+    "name": "sticker_202",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733564/telegram_stickers/sticker_202.png"
+  },
+  {
+    "id": 117,
+    "name": "sticker_203",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733565/telegram_stickers/sticker_203.png"
+  },
+  {
+    "id": 118,
+    "name": "sticker_204",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733565/telegram_stickers/sticker_204.png"
+  },
+  {
+    "id": 119,
+    "name": "sticker_205",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733566/telegram_stickers/sticker_205.png"
+  },
+  {
+    "id": 120,
+    "name": "sticker_206",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733566/telegram_stickers/sticker_206.png"
+  },
+  {
+    "id": 121,
+    "name": "sticker_207",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733567/telegram_stickers/sticker_207.png"
+  },
+  {
+    "id": 122,
+    "name": "sticker_208",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733568/telegram_stickers/sticker_208.png"
+  },
+  {
+    "id": 123,
+    "name": "sticker_209",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733568/telegram_stickers/sticker_209.png"
+  },
+  {
+    "id": 124,
+    "name": "sticker_21",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733569/telegram_stickers/sticker_21.png"
+  },
+  {
+    "id": 125,
+    "name": "sticker_210",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733570/telegram_stickers/sticker_210.png"
+  },
+  {
+    "id": 126,
+    "name": "sticker_211",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733571/telegram_stickers/sticker_211.png"
+  },
+  {
+    "id": 127,
+    "name": "sticker_212",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733572/telegram_stickers/sticker_212.png"
+  },
+  {
+    "id": 128,
+    "name": "sticker_213",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733572/telegram_stickers/sticker_213.png"
+  },
+  {
+    "id": 129,
+    "name": "sticker_214",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733573/telegram_stickers/sticker_214.png"
+  },
+  {
+    "id": 130,
+    "name": "sticker_215",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733574/telegram_stickers/sticker_215.png"
+  },
+  {
+    "id": 131,
+    "name": "sticker_216",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733574/telegram_stickers/sticker_216.png"
+  },
+  {
+    "id": 132,
+    "name": "sticker_217",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733575/telegram_stickers/sticker_217.png"
+  },
+  {
+    "id": 133,
+    "name": "sticker_218",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733575/telegram_stickers/sticker_218.png"
+  },
+  {
+    "id": 134,
+    "name": "sticker_219",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733576/telegram_stickers/sticker_219.png"
+  },
+  {
+    "id": 135,
+    "name": "sticker_22",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733577/telegram_stickers/sticker_22.png"
+  },
+  {
+    "id": 136,
+    "name": "sticker_220",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733578/telegram_stickers/sticker_220.png"
+  },
+  {
+    "id": 137,
+    "name": "sticker_221",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733578/telegram_stickers/sticker_221.png"
+  },
+  {
+    "id": 138,
+    "name": "sticker_222",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733579/telegram_stickers/sticker_222.png"
+  },
+  {
+    "id": 139,
+    "name": "sticker_223",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733579/telegram_stickers/sticker_223.png"
+  },
+  {
+    "id": 140,
+    "name": "sticker_224",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733580/telegram_stickers/sticker_224.png"
+  },
+  {
+    "id": 141,
+    "name": "sticker_225",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733581/telegram_stickers/sticker_225.png"
+  },
+  {
+    "id": 142,
+    "name": "sticker_226",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733582/telegram_stickers/sticker_226.png"
+  },
+  {
+    "id": 143,
+    "name": "sticker_227",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733583/telegram_stickers/sticker_227.png"
+  },
+  {
+    "id": 144,
+    "name": "sticker_228",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733584/telegram_stickers/sticker_228.png"
+  },
+  {
+    "id": 145,
+    "name": "sticker_229",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733585/telegram_stickers/sticker_229.png"
+  },
+  {
+    "id": 146,
+    "name": "sticker_23",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733585/telegram_stickers/sticker_23.png"
+  },
+  {
+    "id": 147,
+    "name": "sticker_230",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733586/telegram_stickers/sticker_230.png"
+  },
+  {
+    "id": 148,
+    "name": "sticker_231",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733587/telegram_stickers/sticker_231.png"
+  },
+  {
+    "id": 149,
+    "name": "sticker_232",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733588/telegram_stickers/sticker_232.png"
+  },
+  {
+    "id": 150,
+    "name": "sticker_233",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733588/telegram_stickers/sticker_233.png"
+  },
+  {
+    "id": 151,
+    "name": "sticker_234",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733589/telegram_stickers/sticker_234.png"
+  },
+  {
+    "id": 152,
+    "name": "sticker_235",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733590/telegram_stickers/sticker_235.png"
+  },
+  {
+    "id": 153,
+    "name": "sticker_236",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733590/telegram_stickers/sticker_236.png"
+  },
+  {
+    "id": 154,
+    "name": "sticker_237",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733591/telegram_stickers/sticker_237.png"
+  },
+  {
+    "id": 155,
+    "name": "sticker_238",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733591/telegram_stickers/sticker_238.png"
+  },
+  {
+    "id": 156,
+    "name": "sticker_239",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733592/telegram_stickers/sticker_239.png"
+  },
+  {
+    "id": 157,
+    "name": "sticker_24",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733592/telegram_stickers/sticker_24.png"
+  },
+  {
+    "id": 158,
+    "name": "sticker_240",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733593/telegram_stickers/sticker_240.png"
+  },
+  {
+    "id": 159,
+    "name": "sticker_241",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733594/telegram_stickers/sticker_241.png"
+  },
+  {
+    "id": 160,
+    "name": "sticker_242",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733595/telegram_stickers/sticker_242.png"
+  },
+  {
+    "id": 161,
+    "name": "sticker_243",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733596/telegram_stickers/sticker_243.png"
+  },
+  {
+    "id": 162,
+    "name": "sticker_244",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733596/telegram_stickers/sticker_244.png"
+  },
+  {
+    "id": 163,
+    "name": "sticker_245",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733597/telegram_stickers/sticker_245.png"
+  },
+  {
+    "id": 164,
+    "name": "sticker_246",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733597/telegram_stickers/sticker_246.png"
+  },
+  {
+    "id": 165,
+    "name": "sticker_247",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733598/telegram_stickers/sticker_247.png"
+  },
+  {
+    "id": 166,
+    "name": "sticker_248",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733598/telegram_stickers/sticker_248.png"
+  },
+  {
+    "id": 167,
+    "name": "sticker_249",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733599/telegram_stickers/sticker_249.png"
+  },
+  {
+    "id": 168,
+    "name": "sticker_25",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733599/telegram_stickers/sticker_25.png"
+  },
+  {
+    "id": 169,
+    "name": "sticker_250",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733600/telegram_stickers/sticker_250.png"
+  },
+  {
+    "id": 170,
+    "name": "sticker_251",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733600/telegram_stickers/sticker_251.png"
+  },
+  {
+    "id": 171,
+    "name": "sticker_252",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733601/telegram_stickers/sticker_252.png"
+  },
+  {
+    "id": 172,
+    "name": "sticker_253",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733602/telegram_stickers/sticker_253.png"
+  },
+  {
+    "id": 173,
+    "name": "sticker_254",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733602/telegram_stickers/sticker_254.png"
+  },
+  {
+    "id": 174,
+    "name": "sticker_26",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733602/telegram_stickers/sticker_26.png"
+  },
+  {
+    "id": 175,
+    "name": "sticker_27",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733603/telegram_stickers/sticker_27.png"
+  },
+  {
+    "id": 176,
+    "name": "sticker_28",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733605/telegram_stickers/sticker_28.png"
+  },
+  {
+    "id": 177,
+    "name": "sticker_29",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733605/telegram_stickers/sticker_29.png"
+  },
+  {
+    "id": 178,
+    "name": "sticker_3",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733606/telegram_stickers/sticker_3.png"
+  },
+  {
+    "id": 179,
+    "name": "sticker_30",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733607/telegram_stickers/sticker_30.png"
+  },
+  {
+    "id": 180,
+    "name": "sticker_31",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733607/telegram_stickers/sticker_31.png"
+  },
+  {
+    "id": 181,
+    "name": "sticker_32",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733608/telegram_stickers/sticker_32.png"
+  },
+  {
+    "id": 182,
+    "name": "sticker_33",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733608/telegram_stickers/sticker_33.png"
+  },
+  {
+    "id": 183,
+    "name": "sticker_34",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733609/telegram_stickers/sticker_34.png"
+  },
+  {
+    "id": 184,
+    "name": "sticker_35",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733610/telegram_stickers/sticker_35.png"
+  },
+  {
+    "id": 185,
+    "name": "sticker_36",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733610/telegram_stickers/sticker_36.png"
+  },
+  {
+    "id": 186,
+    "name": "sticker_37",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733611/telegram_stickers/sticker_37.png"
+  },
+  {
+    "id": 187,
+    "name": "sticker_38",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733612/telegram_stickers/sticker_38.png"
+  },
+  {
+    "id": 188,
+    "name": "sticker_39",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733612/telegram_stickers/sticker_39.png"
+  },
+  {
+    "id": 189,
+    "name": "sticker_4",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733613/telegram_stickers/sticker_4.png"
+  },
+  {
+    "id": 190,
+    "name": "sticker_40",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733613/telegram_stickers/sticker_40.png"
+  },
+  {
+    "id": 191,
+    "name": "sticker_41",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733614/telegram_stickers/sticker_41.png"
+  },
+  {
+    "id": 192,
+    "name": "sticker_42",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733615/telegram_stickers/sticker_42.png"
+  },
+  {
+    "id": 193,
+    "name": "sticker_43",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733615/telegram_stickers/sticker_43.png"
+  },
+  {
+    "id": 194,
+    "name": "sticker_44",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733616/telegram_stickers/sticker_44.png"
+  },
+  {
+    "id": 195,
+    "name": "sticker_45",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733616/telegram_stickers/sticker_45.png"
+  },
+  {
+    "id": 196,
+    "name": "sticker_46",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733617/telegram_stickers/sticker_46.png"
+  },
+  {
+    "id": 197,
+    "name": "sticker_47",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733617/telegram_stickers/sticker_47.png"
+  },
+  {
+    "id": 198,
+    "name": "sticker_48",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733618/telegram_stickers/sticker_48.png"
+  },
+  {
+    "id": 199,
+    "name": "sticker_49",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733618/telegram_stickers/sticker_49.png"
+  },
+  {
+    "id": 200,
+    "name": "sticker_5",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733619/telegram_stickers/sticker_5.png"
+  },
+  {
+    "id": 201,
+    "name": "sticker_50",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733619/telegram_stickers/sticker_50.png"
+  },
+  {
+    "id": 202,
+    "name": "sticker_51",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733620/telegram_stickers/sticker_51.png"
+  },
+  {
+    "id": 203,
+    "name": "sticker_52",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733621/telegram_stickers/sticker_52.png"
+  },
+  {
+    "id": 204,
+    "name": "sticker_53",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733621/telegram_stickers/sticker_53.png"
+  },
+  {
+    "id": 205,
+    "name": "sticker_54",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733622/telegram_stickers/sticker_54.png"
+  },
+  {
+    "id": 206,
+    "name": "sticker_55",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733623/telegram_stickers/sticker_55.png"
+  },
+  {
+    "id": 207,
+    "name": "sticker_56",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733623/telegram_stickers/sticker_56.png"
+  },
+  {
+    "id": 208,
+    "name": "sticker_57",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733623/telegram_stickers/sticker_57.png"
+  },
+  {
+    "id": 209,
+    "name": "sticker_58",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733624/telegram_stickers/sticker_58.png"
+  },
+  {
+    "id": 210,
+    "name": "sticker_59",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733625/telegram_stickers/sticker_59.png"
+  },
+  {
+    "id": 211,
+    "name": "sticker_6",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733625/telegram_stickers/sticker_6.png"
+  },
+  {
+    "id": 212,
+    "name": "sticker_60",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733626/telegram_stickers/sticker_60.png"
+  },
+  {
+    "id": 213,
+    "name": "sticker_61",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733626/telegram_stickers/sticker_61.png"
+  },
+  {
+    "id": 214,
+    "name": "sticker_62",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733627/telegram_stickers/sticker_62.png"
+  },
+  {
+    "id": 215,
+    "name": "sticker_63",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733627/telegram_stickers/sticker_63.png"
+  },
+  {
+    "id": 216,
+    "name": "sticker_64",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733627/telegram_stickers/sticker_64.png"
+  },
+  {
+    "id": 217,
+    "name": "sticker_65",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733628/telegram_stickers/sticker_65.png"
+  },
+  {
+    "id": 218,
+    "name": "sticker_66",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733628/telegram_stickers/sticker_66.png"
+  },
+  {
+    "id": 219,
+    "name": "sticker_67",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733629/telegram_stickers/sticker_67.png"
+  },
+  {
+    "id": 220,
+    "name": "sticker_68",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733630/telegram_stickers/sticker_68.png"
+  },
+  {
+    "id": 221,
+    "name": "sticker_69",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733630/telegram_stickers/sticker_69.png"
+  },
+  {
+    "id": 222,
+    "name": "sticker_7",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733631/telegram_stickers/sticker_7.png"
+  },
+  {
+    "id": 223,
+    "name": "sticker_70",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733631/telegram_stickers/sticker_70.png"
+  },
+  {
+    "id": 224,
+    "name": "sticker_71",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733632/telegram_stickers/sticker_71.png"
+  },
+  {
+    "id": 225,
+    "name": "sticker_72",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733632/telegram_stickers/sticker_72.png"
+  },
+  {
+    "id": 226,
+    "name": "sticker_73",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733633/telegram_stickers/sticker_73.png"
+  },
+  {
+    "id": 227,
+    "name": "sticker_74",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733633/telegram_stickers/sticker_74.png"
+  },
+  {
+    "id": 228,
+    "name": "sticker_75",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733634/telegram_stickers/sticker_75.png"
+  },
+  {
+    "id": 229,
+    "name": "sticker_76",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733634/telegram_stickers/sticker_76.png"
+  },
+  {
+    "id": 230,
+    "name": "sticker_77",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733635/telegram_stickers/sticker_77.png"
+  },
+  {
+    "id": 231,
+    "name": "sticker_78",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733635/telegram_stickers/sticker_78.png"
+  },
+  {
+    "id": 232,
+    "name": "sticker_79",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733636/telegram_stickers/sticker_79.png"
+  },
+  {
+    "id": 233,
+    "name": "sticker_8",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733636/telegram_stickers/sticker_8.png"
+  },
+  {
+    "id": 234,
+    "name": "sticker_80",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733637/telegram_stickers/sticker_80.png"
+  },
+  {
+    "id": 235,
+    "name": "sticker_81",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733637/telegram_stickers/sticker_81.png"
+  },
+  {
+    "id": 236,
+    "name": "sticker_82",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733638/telegram_stickers/sticker_82.png"
+  },
+  {
+    "id": 237,
+    "name": "sticker_83",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733639/telegram_stickers/sticker_83.png"
+  },
+  {
+    "id": 238,
+    "name": "sticker_84",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733639/telegram_stickers/sticker_84.png"
+  },
+  {
+    "id": 239,
+    "name": "sticker_85",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733640/telegram_stickers/sticker_85.png"
+  },
+  {
+    "id": 240,
+    "name": "sticker_86",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733640/telegram_stickers/sticker_86.png"
+  },
+  {
+    "id": 241,
+    "name": "sticker_87",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733641/telegram_stickers/sticker_87.png"
+  },
+  {
+    "id": 242,
+    "name": "sticker_88",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733642/telegram_stickers/sticker_88.png"
+  },
+  {
+    "id": 243,
+    "name": "sticker_89",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733642/telegram_stickers/sticker_89.png"
+  },
+  {
+    "id": 244,
+    "name": "sticker_9",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733643/telegram_stickers/sticker_9.png"
+  },
+  {
+    "id": 245,
+    "name": "sticker_90",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733643/telegram_stickers/sticker_90.png"
+  },
+  {
+    "id": 246,
+    "name": "sticker_91",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733644/telegram_stickers/sticker_91.png"
+  },
+  {
+    "id": 247,
+    "name": "sticker_92",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733644/telegram_stickers/sticker_92.png"
+  },
+  {
+    "id": 248,
+    "name": "sticker_93",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733645/telegram_stickers/sticker_93.png"
+  },
+  {
+    "id": 249,
+    "name": "sticker_94",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733645/telegram_stickers/sticker_94.png"
+  },
+  {
+    "id": 250,
+    "name": "sticker_95",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733646/telegram_stickers/sticker_95.png"
+  },
+  {
+    "id": 251,
+    "name": "sticker_96",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733646/telegram_stickers/sticker_96.png"
+  },
+  {
+    "id": 252,
+    "name": "sticker_97",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733647/telegram_stickers/sticker_97.png"
+  },
+  {
+    "id": 253,
+    "name": "sticker_98",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733647/telegram_stickers/sticker_98.png"
+  },
+  {
+    "id": 254,
+    "name": "sticker_99",
+    "url": "https://res.cloudinary.com/denhxxh3z/image/upload/v1771733648/telegram_stickers/sticker_99.png"
+  }
+]
