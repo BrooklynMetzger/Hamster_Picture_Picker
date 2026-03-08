@@ -1,4 +1,4 @@
-# 🐹 Hamster Picture Picker
+# 🐹 Poorly_drawn_hamster_memes_the_website
 
 A fun, interactive web application that lets users get random hamster meme pictures, download their favorites, and confetti! 
 

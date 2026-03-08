@@ -16,7 +16,7 @@ async function loadStickers() {
 
     let currentStickerUrl = ''; // Keeps track of which image is currently in the modal
 
-    // 1. GENERATE THE GALLERY
+    // GALLERY
     stickers.forEach(sticker => {
       const img = document.createElement('img');
       img.src = sticker.url; 
@@ -33,7 +33,7 @@ async function loadStickers() {
       container.appendChild(img);
     });
 
-    // 2. MODAL CLOSE LOGIC
+    // MODAL CLOSE
     closeModal.addEventListener('click', () => {
       modal.style.display = 'none';
     });
@@ -45,7 +45,7 @@ async function loadStickers() {
       }
     });
 
-    // 3. COPY LINK LOGIC
+    // COPY LINK 
     copyBtn.addEventListener('click', async () => {
       try {
         if (navigator.clipboard && window.isSecureContext) {
@@ -70,7 +70,7 @@ async function loadStickers() {
       }
     });
 
-    // 4. DOWNLOAD LOGIC
+    // DOWNLOAD LOGIC
     downloadBtn.addEventListener('click', async () => {
       const originalText = downloadBtn.innerText;
       downloadBtn.innerText = "Downloading... ⏳";
@@ -81,7 +81,7 @@ async function loadStickers() {
         const blobUrl = window.URL.createObjectURL(blob);
         const link = document.createElement('a');
         link.href = blobUrl;
-        link.download = 'beautiful-hamster.png';
+        link.download = 'hamster_meme.png';
         
         document.body.appendChild(link);
         link.click();
